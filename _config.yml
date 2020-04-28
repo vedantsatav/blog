@@ -2,14 +2,14 @@ title:              The Journal
 email:              vedantanilsatav@gmail.com
 description:        A physical manifestation of my experiences and thoughts
 author:             Vedant Satav
-baseurl:            "/blog"
+baseurl:            "/"
 url:                "https://vedantsatav.github.io"
 
 # Social Profiles
 twitter_username:   
 github_username:    vedantsatav
-facebook_username:  Vedant Satav
-linkedin_username:  Vedant Satav
+facebook_username:  vsatav
+linkedin_username:  vedant-satav-7b10b0178
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
